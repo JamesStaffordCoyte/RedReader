@@ -79,7 +79,7 @@
     <string name="options_sort_comments">Reacties sorteren</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Voorpagina</string>
-    <string name="mainmenu_all">Alle subreddits</string>
+    <!-- <string name="mainmenu_all">Alle subreddits</string> -->
     <string name="mainmenu_custom">Specifieke subreddit</string>
     <string name="mainmenu_custom_invalid_name">Ongeldige subredditnaam.</string>
     <string name="mainmenu_saved">Opgeslagen posts</string>
@@ -550,7 +550,7 @@
     <string name="action_copy_link">Link kopiëren</string>
     <string name="pref_behaviour_postsort">Standaardpostsortering</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Specifieke locatie</string>
+    <!-- <string name="mainmenu_custom_destination">Specifieke locatie</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Gebruiker</string>
     <string name="mainmenu_custom_destination_url">URL</string>

@@ -78,7 +78,7 @@
     <string name="options_sort_comments">Sortera kommentarer</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Förstasida</string>
-    <string name="mainmenu_all">Alla subreddits</string>
+    <!-- <string name="mainmenu_all">Alla subreddits</string> -->
     <string name="mainmenu_custom">Egendefinierad subreddit</string>
     <string name="mainmenu_custom_invalid_name">Ogiltigt namn på subreddit.</string>
     <string name="mainmenu_saved">Sparade inlägg</string>
@@ -598,7 +598,7 @@
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="pref_behaviour_albumview_mode_internal_list">Intern visare (lista)</string>
     <string name="inbox_unread_only">Endast olästa meddelanden</string>
-    <string name="mainmenu_custom_destination">Egendefinierad plats</string>
+    <!-- <string name="mainmenu_custom_destination">Egendefinierad plats</string> -->
     <string name="save_image_permission_denied">Åtkomst nekad: kunde inte spara bild.</string>
     <string name="pref_behaviour_sharing_share_text_title">Inkludera text vid delning av kommentar</string>
     <string name="pref_network_tor_title">Använd TOR</string>

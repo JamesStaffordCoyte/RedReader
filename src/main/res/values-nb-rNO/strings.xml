@@ -70,7 +70,7 @@
     <string name="options_sort_posts">Sorter innlegg</string>
     <string name="options_sort_comments">Sorter kommentarer</string>
     <string name="mainmenu_frontpage">Forsiden</string>
-    <string name="mainmenu_all">Alle subreddit-er</string>
+    <!-- <string name="mainmenu_all">Alle subreddit-er</string> -->
     <string name="mainmenu_custom">Egendefinert subreddit</string>
     <string name="mainmenu_custom_invalid_name">Ugydlig subreddit-navn.</string>
     <string name="mainmenu_saved">Innlegg lagret</string>
@@ -462,7 +462,7 @@
     <string name="action_copy_text">Kopier tekst</string>
     <string name="action_copy_link">Kopier lenke</string>
     <string name="pref_behaviour_postsort">Forvalgt innleggssortering</string>
-    <string name="mainmenu_custom_destination">Egendefinert plassering</string>
+    <!-- <string name="mainmenu_custom_destination">Egendefinert plassering</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Bruker</string>
     <string name="mainmenu_custom_destination_url">Nettadresse</string>

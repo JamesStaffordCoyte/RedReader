@@ -69,7 +69,7 @@
     <string name="options_sort_posts">Järjestä julkaisut</string>
     <string name="options_sort_comments">Järjestä kommentit</string>
     <string name="mainmenu_frontpage">Etusivu</string>
-    <string name="mainmenu_all">Kaikki aliredditit</string>
+    <!-- <string name="mainmenu_all">Kaikki aliredditit</string> -->
     <string name="mainmenu_custom">Mukautettu alireddit</string>
     <string name="mainmenu_custom_invalid_name">Väärä aliredditin nimi.</string>
     <string name="mainmenu_saved">Tallennetut julkaisut</string>

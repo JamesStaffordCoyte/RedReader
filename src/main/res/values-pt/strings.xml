@@ -123,9 +123,9 @@
     <string name="imgur_album">Imgur álbum</string>
     <string name="lang_auto">Automático</string>
     <string name="load_more_posts">Carregar mais posts</string>
-    <string name="mainmenu_all">Todos os Subreddits</string>
+    <!-- <string name="mainmenu_all">Todos os Subreddits</string> -->
     <string name="mainmenu_custom">Subreddit Personalizado</string>
-    <string name="mainmenu_custom_destination">Local Personalizado</string>
+    <!-- <string name="mainmenu_custom_destination">Local Personalizado</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_frontpage">Página Inicial</string>
     <string name="mainmenu_custom_destination_user">Usuário</string>

@@ -412,8 +412,8 @@ public class SubredditPostListURL extends PostListingURL {
 			case FRONTPAGE:
 				return context.getString(R.string.mainmenu_frontpage);
 
-			case ALL:
-				return context.getString(R.string.mainmenu_all);
+			// case ALL:
+			// 	return context.getString(R.string.mainmenu_all);
 
 			case POPULAR:
 				return context.getString(R.string.mainmenu_popular);

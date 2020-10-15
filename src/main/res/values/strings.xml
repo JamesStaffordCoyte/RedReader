@@ -146,7 +146,7 @@
     <!-- Main Menu -->
 
     <string name="mainmenu_frontpage">Front Page</string>
-    <string name="mainmenu_all">All Subreddits</string>
+    <!-- <string name="mainmenu_all">All Subreddits</string> -->
     <string name="mainmenu_custom">Custom Subreddit</string>
     <string name="mainmenu_custom_invalid_name">Invalid subreddit name.</string>
     <string name="mainmenu_saved">Saved Posts</string>
@@ -852,7 +852,7 @@
 	<string name="pref_behaviour_postsort">Posts (default)</string>
 
 	<!-- 2016-08-06 -->
-	<string name="mainmenu_custom_destination">Custom Location</string>
+	<!-- <string name="mainmenu_custom_destination">Custom Location</string> -->
 	<string name="mainmenu_custom_destination_subreddit">Subreddit</string>
 	<string name="mainmenu_custom_destination_user">User</string>
 	<string name="mainmenu_custom_destination_url">URL</string>

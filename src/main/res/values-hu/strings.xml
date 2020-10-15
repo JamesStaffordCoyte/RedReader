@@ -121,7 +121,7 @@
     <!-- Main Menu -->
 
     <string name="mainmenu_frontpage">Főoldal</string>
-    <string name="mainmenu_all">Összes alreddit</string>
+    <!-- <string name="mainmenu_all">Összes alreddit</string> -->
     <string name="mainmenu_custom">Konkrét alreddit</string>
     <string name="mainmenu_custom_invalid_name">Érvénytelen alreddit név.</string>
     <string name="mainmenu_saved">Elmentett posztok</string>
@@ -771,7 +771,7 @@
 	<string name="pref_behaviour_postsort">Alapértelmezett poszt rendezés</string>
 
 	<!-- 2016-08-06 -->
-	<string name="mainmenu_custom_destination">Megadott hely</string>
+	<!-- <string name="mainmenu_custom_destination">Megadott hely</string> -->
 	<string name="mainmenu_custom_destination_subreddit">Alreddit</string>
 	<string name="mainmenu_custom_destination_user">Felhasználó</string>
 	<string name="mainmenu_custom_destination_url">URL</string>

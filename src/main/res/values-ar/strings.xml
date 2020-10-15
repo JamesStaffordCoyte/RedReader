@@ -79,7 +79,7 @@
     <string name="options_sort_comments">ترتيب التعليقات</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">الصفحة الرئيسية</string>
-    <string name="mainmenu_all">جميع المنتديات الفرعية</string>
+    <!-- <string name="mainmenu_all">جميع المنتديات الفرعية</string> -->
     <string name="mainmenu_custom">منتدى فرعي مخصص</string>
     <string name="mainmenu_custom_invalid_name">اسم المنتدى الفرعي غير صحيح.</string>
     <string name="mainmenu_saved">المنشورات المحفوظة</string>
@@ -506,7 +506,7 @@
     <string name="action_copy_text">نسخ النص</string>
     <string name="action_copy_link">نسخ الرابط</string>
     <string name="pref_behaviour_postsort">فرز الأولي للمنشورات</string>
-    <string name="mainmenu_custom_destination">الذهاب إلى شيء معين</string>
+    <!-- <string name="mainmenu_custom_destination">الذهاب إلى شيء معين</string> -->
     <string name="mainmenu_custom_destination_subreddit">منتدى فرعي</string>
     <string name="mainmenu_custom_destination_user">المستخدم</string>
     <string name="mainmenu_custom_destination_url">رابط</string>

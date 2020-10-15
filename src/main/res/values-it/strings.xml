@@ -180,7 +180,7 @@
     <string name="mainmenu_frontpage">Pagina principale</string>
     <string name="listing_cached">Visualizzando copia in cache del %s</string>
     <string name="load_more_posts">Carica altri post</string>
-    <string name="mainmenu_all">Tutti i subreddit</string>
+    <!-- <string name="mainmenu_all">Tutti i subreddit</string> -->
     <string name="mainmenu_custom">Subreddit personalizzato</string>
     <string name="mainmenu_custom_invalid_name">Nome del subreddit non valido.</string>
     <string name="mainmenu_downvoted">Post votati negativamente</string>
@@ -524,7 +524,7 @@
     <string name="comment_header_search_thread_title">Stai visualizzando i risultati della ricerca per un thread di commenti.</string>
     <string name="pref_appearance_navbar_color_option_primary">Primario (chiaro)</string>
     <string name="pref_appearance_navbar_color_option_primarydark">Primario (scuro)</string>
-    <string name="mainmenu_custom_destination">Navigazione personalizzata</string>
+    <!-- <string name="mainmenu_custom_destination">Navigazione personalizzata</string> -->
     <string name="pref_behaviour_share_permalink_title">Condividi come permalink</string>
     <string name="error_cache_dir_does_not_exist_message">Non è stato possibile accedere alla cartella della cache. Si prega di scegliere una posizione diversa nelle impostazioni della cache.</string>
     <string name="pref_behaviour_pinned_subredditsort">Ordina Subreddit Preferiti</string>

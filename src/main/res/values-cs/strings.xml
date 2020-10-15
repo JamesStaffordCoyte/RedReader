@@ -77,7 +77,7 @@
     <string name="options_sort_comments">Seřadit komentáře</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Hlavní strana</string>
-    <string name="mainmenu_all">Všechny subreddity</string>
+    <!-- <string name="mainmenu_all">Všechny subreddity</string> -->
     <string name="mainmenu_custom">Vlastní subreddit</string>
     <string name="mainmenu_custom_invalid_name">Neplatný název subredditu.</string>
     <string name="mainmenu_saved">Uložené příspěvky</string>
@@ -548,7 +548,7 @@
     <string name="action_copy_link">Kopíruj odkaz</string>
     <string name="pref_behaviour_postsort">Příspěvky (výchozí)</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Vlastní umístění</string>
+    <!-- <string name="mainmenu_custom_destination">Vlastní umístění</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Uživatel</string>
     <string name="mainmenu_custom_destination_url">URL</string>

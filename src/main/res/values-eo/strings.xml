@@ -78,7 +78,7 @@
     <string name="options_sort_comments">Ordigi komentojn</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Ĉefpaĝo</string>
-    <string name="mainmenu_all">Ĉiuj redditeroj</string>
+    <!-- <string name="mainmenu_all">Ĉiuj redditeroj</string> -->
     <string name="mainmenu_custom">Alia redditero</string>
     <string name="mainmenu_custom_invalid_name">Erara nomo de redditero.</string>
     <string name="mainmenu_saved">Konservitaj afiŝoj</string>
@@ -547,7 +547,7 @@
     <string name="action_copy_link">Kopii ligilon</string>
     <string name="pref_behaviour_postsort">Afiŝoj (implicite)</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Propra loko</string>
+    <!-- <string name="mainmenu_custom_destination">Propra loko</string> -->
     <string name="mainmenu_custom_destination_subreddit">Redditero</string>
     <string name="mainmenu_custom_destination_user">Uzanto</string>
     <string name="mainmenu_custom_destination_url">URL</string>

@@ -106,7 +106,7 @@
     <string name="options_sort_comments">評論排列</string>
 
     <string name="mainmenu_frontpage">主頁</string>
-    <string name="mainmenu_all">所有版塊</string>
+    <!-- <string name="mainmenu_all">所有版塊</string> -->
     <string name="mainmenu_custom">自訂版塊</string>
     <string name="mainmenu_custom_invalid_name">版塊名稱無效。</string>
     <string name="mainmenu_saved">收藏的帖子</string>
@@ -642,7 +642,7 @@
 
 	<string name="pref_behaviour_postsort">預設帖子排列</string>
 
-	<string name="mainmenu_custom_destination">自訂位置</string>
+	<!-- <string name="mainmenu_custom_destination">自訂位置</string> -->
 	<string name="mainmenu_custom_destination_subreddit">版塊</string>
 	<string name="mainmenu_custom_destination_user">用戶</string>
 	<string name="mainmenu_custom_destination_url">網址</string>

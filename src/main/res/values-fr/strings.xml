@@ -78,7 +78,7 @@
     <string name="options_sort_comments">Trier les commentaires</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">À la une</string>
-    <string name="mainmenu_all">Tous les subreddits</string>
+    <!-- <string name="mainmenu_all">Tous les subreddits</string> -->
     <string name="mainmenu_custom">Subreddit personnalisé</string>
     <string name="mainmenu_custom_invalid_name">Nom de subreddit invalide.</string>
     <string name="mainmenu_saved">Posts sauvegardés</string>
@@ -485,7 +485,7 @@
     <string name="action_copy_text">Copier le texte</string>
     <string name="action_copy_link">Copier le lien</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Emplacement personnalisé</string>
+    <!-- <string name="mainmenu_custom_destination">Emplacement personnalisé</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Utilisateur</string>
     <string name="mainmenu_custom_destination_url">URL</string>

@@ -131,7 +131,7 @@
     <!-- Main Menu -->
 
     <string name="mainmenu_frontpage">Forsiden</string>
-    <string name="mainmenu_all">Alle Subreddits</string>
+    <!-- <string name="mainmenu_all">Alle Subreddits</string> -->
     <string name="mainmenu_custom">Brugerdefineret Subreddit</string>
     <string name="mainmenu_custom_invalid_name">Ugyldigt subreddit navn.</string>
     <string name="mainmenu_saved">Gemte Indlæg</string>
@@ -596,7 +596,7 @@
     <string name="action_copy_text">Kopiér Tekst</string>
     <string name="action_copy_link">Kopiér Link</string>
     <string name="pref_behaviour_postsort">Standard oplægssortering</string>
-    <string name="mainmenu_custom_destination">Brugerdefineret Lokation</string>
+    <!-- <string name="mainmenu_custom_destination">Brugerdefineret Lokation</string> -->
     <string name="mainmenu_custom_destination_user">Bruger</string>
     <string name="mainmenu_custom_destination_search">Søg</string>
     <string name="pref_behaviour_share_permalink_title">Del som permalink</string>

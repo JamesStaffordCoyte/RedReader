@@ -68,7 +68,7 @@
     <string name="options_sort_posts">帖子排序</string>
     <string name="options_sort_comments">评论排序</string>
     <string name="mainmenu_frontpage">主页</string>
-    <string name="mainmenu_all">所有版块</string>
+    <!-- <string name="mainmenu_all">所有版块</string> -->
     <string name="mainmenu_custom">自订版块</string>
     <string name="mainmenu_custom_invalid_name">版块名称无效。</string>
     <string name="mainmenu_saved">收藏的帖子</string>
@@ -456,7 +456,7 @@
     <string name="action_search_comments">搜索评论</string>
     <string name="action_copy_text">复制文字</string>
     <string name="action_copy_link">复制链接</string>
-    <string name="mainmenu_custom_destination">自订位置</string>
+    <!-- <string name="mainmenu_custom_destination">自订位置</string> -->
     <string name="mainmenu_custom_destination_subreddit">版块</string>
     <string name="mainmenu_custom_destination_user">用户</string>
     <string name="mainmenu_custom_destination_url">网址</string>

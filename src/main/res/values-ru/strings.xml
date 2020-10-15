@@ -70,7 +70,7 @@
     <string name="options_sort_posts">Сортировать публикации</string>
     <string name="options_sort_comments">Сортировать комментарии</string>
     <string name="mainmenu_frontpage">Главная страница</string>
-    <string name="mainmenu_all">Все сабреддиты</string>
+    <!-- <string name="mainmenu_all">Все сабреддиты</string> -->
     <string name="mainmenu_custom">Другой сабреддит</string>
     <string name="mainmenu_custom_invalid_name">Недопустимое имя сабреддита.</string>
     <string name="mainmenu_saved">Сохраненные публикации</string>
@@ -459,7 +459,7 @@
     <string name="action_copy_text">Копировать текст</string>
     <string name="action_copy_link">Скопировать ссылку</string>
     <string name="pref_behaviour_postsort">Сортировка публикаций по умолчанию</string>
-    <string name="mainmenu_custom_destination">Другие места</string>
+    <!-- <string name="mainmenu_custom_destination">Другие места</string> -->
     <string name="mainmenu_custom_destination_subreddit">Сабреддит</string>
     <string name="mainmenu_custom_destination_user">Пользователь</string>
     <string name="mainmenu_custom_destination_url">URL</string>

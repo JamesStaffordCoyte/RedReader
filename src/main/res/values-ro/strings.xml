@@ -121,7 +121,7 @@
     <!-- Main Menu -->
 
     <string name="mainmenu_frontpage">Pagina Principală</string>
-    <string name="mainmenu_all">Toate Subreddit-urile</string>
+    <!-- <string name="mainmenu_all">Toate Subreddit-urile</string> -->
     <string name="mainmenu_custom">Alegeți un Subreddit</string>
     <string name="mainmenu_custom_invalid_name">Numele Subreddit-ului este invalid.</string>
     <string name="mainmenu_saved">Postări Salvate</string>
@@ -777,7 +777,7 @@
 	<string name="pref_behaviour_postsort">Sortarea Implicită a Postărilor</string>
 
 	<!-- 2016-08-06 -->
-	<string name="mainmenu_custom_destination">Locație anume</string>
+	<!-- <string name="mainmenu_custom_destination">Locație anume</string> -->
 	<string name="mainmenu_custom_destination_subreddit">Subreddit</string>
 	<string name="mainmenu_custom_destination_user">Utilizator</string>
 	<string name="mainmenu_custom_destination_url">URL</string>

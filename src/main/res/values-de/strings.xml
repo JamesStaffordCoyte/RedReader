@@ -79,7 +79,7 @@
     <string name="options_sort_comments">Kommentare sortieren</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Hauptseite</string>
-    <string name="mainmenu_all">Alle Subreddits</string>
+    <!-- <string name="mainmenu_all">Alle Subreddits</string> -->
     <string name="mainmenu_custom">Eigener Subreddit</string>
     <string name="mainmenu_custom_invalid_name">Ungültiger Subreddit-Name.</string>
     <string name="mainmenu_saved">Gespeicherte Posts</string>
@@ -435,7 +435,7 @@
     <string name="karma_comment">Kommentar-Karma</string>
     <string name="karma_link">Link-Karma</string>
     <string name="load_more_comments_failed_unknown_url_type">Es können keine weiteren Kommentare geladen werden: unbekannter URL-Typ.</string>
-    <string name="mainmenu_custom_destination">Eigener Ort</string>
+    <!-- <string name="mainmenu_custom_destination">Eigener Ort</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_url">URL</string>
     <string name="mainmenu_custom_destination_user">Benutzer</string>

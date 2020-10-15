@@ -185,25 +185,25 @@ public class MainMenuListingManager {
 								false));
 			}
 
-			if(mainMenuShortcutItems.contains(MainMenuFragment.MainMenuShortcutItems.ALL)) {
-				mAdapter.appendToGroup(
-						GROUP_MAIN_ITEMS,
-						makeItem(
-								R.string.mainmenu_all,
-								MainMenuFragment.MENU_MENU_ACTION_ALL,
-								null,
-								false));
-			}
+			// if(mainMenuShortcutItems.contains(MainMenuFragment.MainMenuShortcutItems.ALL)) {
+			// 	mAdapter.appendToGroup(
+			// 			GROUP_MAIN_ITEMS,
+			// 			makeItem(
+			// 					R.string.mainmenu_all,
+			// 					MainMenuFragment.MENU_MENU_ACTION_ALL,
+			// 					null,
+			// 					false));
+			// }
 
-			if(mainMenuShortcutItems.contains(MainMenuFragment.MainMenuShortcutItems.CUSTOM)) {
-				mAdapter.appendToGroup(
-						GROUP_MAIN_ITEMS,
-						makeItem(
-								R.string.mainmenu_custom_destination,
-								MainMenuFragment.MENU_MENU_ACTION_CUSTOM,
-								null,
-								false));
-			}
+			// if(mainMenuShortcutItems.contains(MainMenuFragment.MainMenuShortcutItems.CUSTOM)) {
+			// 	mAdapter.appendToGroup(
+			// 			GROUP_MAIN_ITEMS,
+			// 			makeItem(
+			// 					R.string.mainmenu_custom_destination,
+			// 					MainMenuFragment.MENU_MENU_ACTION_CUSTOM,
+			// 					null,
+			// 					false));
+			// }
 
 			if(mainMenuShortcutItems.contains(MainMenuFragment.MainMenuShortcutItems.RANDOM)) {
 				mAdapter.appendToGroup(

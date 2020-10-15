@@ -78,7 +78,7 @@
     <string name="options_sort_comments">Urutkan Komentar</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Beranda</string>
-    <string name="mainmenu_all">Semua Subreddit</string>
+    <!-- <string name="mainmenu_all">Semua Subreddit</string> -->
     <string name="mainmenu_custom">Subreddit Khusus</string>
     <string name="mainmenu_custom_invalid_name">Nama subreddit tidak valid.</string>
     <string name="mainmenu_saved">Pos Tersimpan</string>
@@ -549,7 +549,7 @@
     <string name="action_copy_link">Salin Tautan</string>
     <string name="pref_behaviour_postsort">Pos (bawaan)</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Lokasi Khusus</string>
+    <!-- <string name="mainmenu_custom_destination">Lokasi Khusus</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Pengguna</string>
     <string name="mainmenu_custom_destination_url">URL</string>

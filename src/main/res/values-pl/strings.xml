@@ -78,7 +78,7 @@
     <string name="options_sort_comments">Sortowanie komentarzy</string>
     <!-- Main Menu -->
     <string name="mainmenu_frontpage">Strona główna</string>
-    <string name="mainmenu_all">Wszystkie subreddity</string>
+    <!-- <string name="mainmenu_all">Wszystkie subreddity</string> -->
     <string name="mainmenu_custom">Własny subreddit</string>
     <string name="mainmenu_custom_invalid_name">Błędna nazwa subreddita.</string>
     <string name="mainmenu_saved">Zapisane posty</string>
@@ -547,7 +547,7 @@
     <string name="action_copy_link">Kopiuj odsyłacz</string>
     <string name="pref_behaviour_postsort">Domyślna kolejność postów</string>
     <!-- 2016-08-06 -->
-    <string name="mainmenu_custom_destination">Własna lokalizacja</string>
+    <!-- <string name="mainmenu_custom_destination">Własna lokalizacja</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddit</string>
     <string name="mainmenu_custom_destination_user">Użytkownik</string>
     <string name="mainmenu_custom_destination_url">URL</string>

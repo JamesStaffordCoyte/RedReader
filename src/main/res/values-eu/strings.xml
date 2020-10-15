@@ -57,7 +57,7 @@
     <string name="options_sort_posts">Ordenatu argitalpenak</string>
     <string name="options_sort_comments">Ordenatu iruzkinak</string>
     <string name="mainmenu_frontpage">Orri nagusia</string>
-    <string name="mainmenu_all">Subreddit guztiak</string>
+    <!-- <string name="mainmenu_all">Subreddit guztiak</string> -->
     <string name="mainmenu_custom">Subreddit pertsonalizatua</string>
     <string name="mainmenu_saved">Gordetako argitalpenak</string>
     <string name="mainmenu_hidden">Ezkutuko argitalpenak</string>
@@ -363,7 +363,7 @@
     <string name="pref_not_supported_before_lollipop">Ez jasangarria Android Lollipop baino lehen</string>
     <string name="action_copy_text">Kopiatu testua</string>
     <string name="action_copy_link">Kopiatu esteka</string>
-    <string name="mainmenu_custom_destination">Leku pertsonalizatua</string>
+    <!-- <string name="mainmenu_custom_destination">Leku pertsonalizatua</string> -->
     <string name="mainmenu_custom_destination_subreddit">Subreddita</string>
     <string name="mainmenu_custom_destination_user">Erabiltzailea</string>
     <string name="mainmenu_custom_destination_url">URL</string>

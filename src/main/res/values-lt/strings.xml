@@ -106,7 +106,7 @@
     <string name="options_sort_comments">Rūšiuoti komentarus</string>
 
     <string name="mainmenu_frontpage">Pradinis puslapis</string>
-    <string name="mainmenu_all">Visi subreddit\'ai</string>
+    <!-- <string name="mainmenu_all">Visi subreddit\'ai</string> -->
     <string name="mainmenu_custom">Savas subreddit\'as</string>
     <string name="mainmenu_custom_invalid_name">Neteisingas subreddit\'o pavadinimas.</string>
     <string name="mainmenu_saved">Išsaugoti įrašai</string>
